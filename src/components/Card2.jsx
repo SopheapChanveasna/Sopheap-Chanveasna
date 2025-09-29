@@ -10,7 +10,7 @@ export default function Card2() {
         <div className="w-[350px] h-[450px] bg-pink-200 rounded-lg">
           <div className="w-full h-[350px] bg-slate-200 overflow-hidden rounded-lg  ">
             <img
-              src="/public/Pictures/c.png"
+              src="/Pictures/c.png"
               alt=""
               className="w-full h-full object-cover rounded-lg"
             />
@@ -29,7 +29,7 @@ export default function Card2() {
         <div className="w-[350px] h-[450px] bg-pink-200 rounded-lg">
           <div className="w-full h-[350px] bg-slate-200 overflow-hidden rounded-lg">
             <img
-              src="/public/Pictures/c1.png"
+              src="/Pictures/c1.png"
               alt=""
               className="w-full h-full object-cover rounded-lg"
             />
@@ -48,7 +48,7 @@ export default function Card2() {
         <div className="w-[350px] h-[450px] bg-pink-200 rounded-lg ">
           <div className="w-full h-[350px] bg-slate-200 overflow-hidden rounded-lg">
             <img
-              src="/public/Pictures/c2.png"
+              src="/Pictures/c2.png"
               alt=""
               className="w-full h-full object-cover rounded-lg "
             />
