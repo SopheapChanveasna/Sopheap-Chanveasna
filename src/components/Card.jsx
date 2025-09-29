@@ -10,7 +10,7 @@ export default function Card() {
         <div className="w-[350px] h-[450px] bg-pink-200 rounded-lg">
           <div className="w-full h-[350px] bg-slate-200 overflow-hidden rounded-lg  ">
             <img
-              src="/public/Pictures/cd.png"
+              src="/Pictures/cd.png"
               alt=""
               className="w-full h-full object-cover rounded-lg"
             />
@@ -29,7 +29,7 @@ export default function Card() {
         <div className="w-[350px] h-[450px] bg-pink-200 rounded-lg">
           <div className="w-full h-[350px] bg-slate-200 overflow-hidden rounded-lg">
             <img
-              src="/public/Pictures/cd1.png"
+              src="/Pictures/cd1.png"
               alt=""
               className="w-full h-full object-cover rounded-lg"
             />
@@ -48,7 +48,7 @@ export default function Card() {
         <div className="w-[350px] h-[450px] bg-pink-200 rounded-lg ">
           <div className="w-full h-[350px] bg-slate-200 overflow-hidden rounded-lg">
             <img
-              src="/public/Pictures/cd2.png"
+              src="/Pictures/cd2.png"
               alt=""
               className="w-full h-full object-cover rounded-lg "
             />
@@ -67,7 +67,7 @@ export default function Card() {
         <div className="w-[350px] h-[450px] bg-pink-200 rounded-lg ">
           <div className="w-full h-[350px] bg-slate-200 overflow-hidden rounded-lg">
             <img
-              src="/public/Pictures/cd3.png"
+              src="/Pictures/cd3.png"
               alt=""
               className="w-full h-full object-cover rounded-lg "
             />

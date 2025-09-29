@@ -16,7 +16,7 @@ export default function Content() {
         </div>
         <div className="w-[50%] h-full overflow-hidden">
           <img
-            src="public/Pictures/banner22.png"
+            src="/Pictures/banner22.png"
             alt=""
             className="w-full h-full"
           />

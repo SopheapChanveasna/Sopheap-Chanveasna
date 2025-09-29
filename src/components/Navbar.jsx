@@ -4,7 +4,7 @@ export default function Navbar() {
       <nav className="hidden w-full h-[70px] bg-white lg:flex shadow-md">
         <div className="w-[30%] h-[full]:">
           <img
-            src="/public/Pictures/logo1.jpg"
+            src="/Pictures/logo1.jpg"
             alt=""
             className="h-full object-cover"
           />
